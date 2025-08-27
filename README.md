@@ -1,8 +1,6 @@
 # Bank-Marketing-Campaign---Subscription-Analysis
 PowerBI Dashboard analyzing customer subscription behaviour using UCI Bank Marketing Dataset
 
-# Bank Marketing Campaign - Subscription Analysis
-
 Project Overview
 This project analyzes the Bank Marketing Campaign dataset to understand customer behavior and identify key factors that drive subscription to term deposits.
 
