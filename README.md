@@ -34,10 +34,6 @@ Files in this Repository
 - GitHub (Version control and project sharing)  
 
 
-Dashboard Preview
-![Dashboard Screenshot](Dashboard.png)
-
-
 Author
 Anjali kumari  Bogala 
 Project - Bank Marketing Campaign Analysis
